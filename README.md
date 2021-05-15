@@ -59,8 +59,15 @@ We wanted to play with these balances and find out if or how cryptocurrencies ca
 * We then ran several Monte Carlo Simulations to forcast future returns 5 years into the future. 
 
 ![BTC MC](images/btc_mc.png)
+* There is a 95% chance that an initial investment of $1000 in the portfolio over the next 5 years will end within in the range of $2036.45 and $5816.50
+
 ![ETH MC](images/eth_mc.png)
+*There is a 95% chance that an initial investment of $1000 in the portfolio over the next 5 years will end within in the range of $2548.9 and $9861.21
+
+
 ![Alpha MC](images/alpha_mc.png)
+* There is a 95% chance that an initial investment of $1000 in the portfolio over the next 5 years will end within in the range of $2907.57 and $8184.87
+
 
 
 ## What happens when Crypto keeps growing? When should you re-balance your portfolio? Is there a way to automate this process?
