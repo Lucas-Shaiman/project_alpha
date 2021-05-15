@@ -4,29 +4,32 @@ project_alpha_readme
 ##### by Andre Bacellar, Malaika Oglesby, Michael Bowey, Lucas Shaiman, and Sebastian Escobar
 
 ---
+### Are Cryptocurrencies an attractive Asset Class?
 
-## Intro:
-#### With the growing popularity and acceptance of cryptocurrency in the finance industy how does crypto fit into a dynamic landscape on the verge of major disruption?
----
-### Should you add Crypto to your portfolio?
-* What are the sharpe ratios against a portfolio with crypto vs one without?
-> Graph 1 - Sharpe ratio of traditional portfolio
->> Graph 2 - Sharpe ratio of portfolio with crypto
+![Sharpe Ratios of Assets](images/sharpe_ratios_of_assets.png)
 
-### If so, how much Crypto should you hold?
-* What weight allocations should be put into a traditional portfolio
-> High Risk - what those weights would be
->> Moderate Risk - what those weights would be
->>> Low Risk - what those weights would be
-### Are there any correlations between Crypto and other asset classes?
-* S&P500 vs BTC/ETH
-* Gold vs BTC/ETH 
->Heatmap
-### What risks are associated with holding Crypto
-> Volitility Graph
-* Comparing std 13.2% weekly vs S&P 2% vs Bonds 1% Crypto is more risky
-* Past results dont predict future performance
-* Bitcoin has dropped 80% at times vs the S&P's biggest drop was X 
-* BTC is not very correlated to the S&P and other asset classes so it diversifies your portfolio
 
-### Which Crypto is best? ETH or BTC?
+### What are the risks?
+![Volitility](images/volitility_graph.png)
+![Heatmap](images/heatmap.png)
+
+
+### Can you integrate it into a traditional 60/40 financial portfolio?
+![Cumulative Returns Graph](images/cumulative_returns_graph.png)
+![Portfolio Sharpe Ratios](images/portfolio_sharpe_ratios.png)
+
+
+
+### What are the optimal weight allocations?
+![Markowitz](images/markowitz.png)
+![BTC MC](images/btc_mc.png)
+![ETH MC](images/eth_mc.png)
+![Alpha MC](images/alpha_mc.png)
+
+
+
+
+### What happens when Crypto keeps growing? When should you re-balance your portfolio? Is there a way to automate this process?
+
+
+> Twilio
