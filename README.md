@@ -27,8 +27,8 @@ We wanted to play with these balances and find out if or how cryptocurrencies ca
 
 ## What are the risks?
 * All investing comes with risk and the only way institutional banks will adopt and integrate cryptocurrencies into their clients porfolios is if they can mitigate that risk similar to what is currently available.
-* We analyzed 5 Years of historical data however in order to property analyze risk we would need much more.
-* Based on that data we measured the volitility of each asset as well as the correlation between those assets.
+* We analyzed 5 Years of historical data however in order to properly analyze risk we would need much more.
+* Based on that data available - we measured the volitility of each asset as well as the correlation between those assets.
 
 ![Volitility](images/volitility_graph.png)
 ![Heatmap](images/heatmap.png)
